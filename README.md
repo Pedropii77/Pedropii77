@@ -24,7 +24,7 @@ Estudante de Técnico em Informática para Internet na ETEC, com foco em desenvo
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,androidstudio,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,php,mysql,androidstudio,git,github,vscode" />
 </p>
 
 ---
