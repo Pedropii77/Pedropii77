@@ -31,9 +31,11 @@ Estudante de Técnico em Informática para Internet na ETEC, com foco em desenvo
 
 ## 📖 Atualmente estudando
 
+- HTML e CSS
 - JavaScript
 - PHP e MySQL
-- [Outro assunto que você esteja estudando]
+- Python
+- Começando Java
 
 ---
 
@@ -53,6 +55,9 @@ Estudante de Técnico em Informática para Internet na ETEC, com foco em desenvo
   </a>
   <a href="mailto:pedrofrpii77@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pedrouzx._77">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
