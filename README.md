@@ -36,7 +36,7 @@ Estudante de Técnico em Informática para Internet na ETEC, com foco em desenvo
 - PHP e MySQL
 - Python
 - Começando Java
-
+ 
 ---
 
 ## 📊 Contribuições
